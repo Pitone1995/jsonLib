@@ -1,0 +1,6 @@
+.vscode/
+bin/
+inc/
+log/
+compile.bat
+*.json
